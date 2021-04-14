@@ -55,7 +55,6 @@ const IndexPage = () => (
           <h2>Contabilidad</h2>
 
           <ul style={{ listStyleType: 'none', textAlign: 'left' }}>
-            <li>¿Has probado este Pin?</li>
             <li>Servicio contable completo.</li>
             <li>Determinación del cálculo de IVA.</li>
             <li>
