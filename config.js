@@ -27,14 +27,15 @@ module.exports = {
     {
       style: 'solid',
       icon: 'fa-phone',
-      name: '+56 978-602-227',
+      name: '+56 978-602-227   Diego Peña Espinoza, Contador Auditor',
       url: 'tel:+56978602227',
     },
     {
       style: 'solid',
       icon: 'fa-envelope',
-      name: 'contacto@difez.com',
-      url: 'mailto:contacto@difez.com',
+      name: 'difez.statements@gmail.com',
+      url: 'mailto:difez.statements@gmail.com',
     },
+    
   ],
 };
