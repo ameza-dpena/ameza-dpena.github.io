@@ -69,7 +69,7 @@ NEW-way
 
 Using Github Action Gatsby Publish v2.
 
-Any push and PR to gatsby-dev branch execute a deploy to master branch
+Any push and PR to gatsby-dev branch execute a deploy to master branch !
 
 ### Contribution
 
